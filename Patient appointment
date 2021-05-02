@@ -3,3 +3,4 @@ if patstatus-"urgent" then
 schedule appointment 
 else
 postpone to next week.
+ok noted
